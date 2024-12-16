@@ -42,8 +42,8 @@ function ThroughDirectory(Directory, currDepth) {
 
 function guh() {
 
-    logger.write("# Snackvivor Sitemap\n")
-    ThroughDirectory("./Snackvivor", 0)
+    logger.write("# Tagtreevivor Sitemap\n")
+    ThroughDirectory("./Tagtreevivor", 0)
 
 }
 
